@@ -8,3 +8,5 @@
 8. Pay for pizza with credit card over the phone
 9. Give them your address
 10. Wait for delivery
+11. Tip delivery driver
+12. Eat pizza
