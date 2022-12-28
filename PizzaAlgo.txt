@@ -1,0 +1,10 @@
+1. Look up pizza place number
+2. Call the pizza place
+3. On hold....
+4. Order pizza crust type
+5. Order pizza sauce type
+6. Order pizza cheese type
+7. Order pizza toppings or no toppings
+8. Pay for pizza with credit card over the phone
+9. Give them your address
+10. Wait for delivery
